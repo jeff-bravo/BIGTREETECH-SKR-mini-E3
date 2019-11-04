@@ -1,4 +1,8 @@
 # BIGTREETECH-SKR-mini-E3
+
+Version for Sovol SV01 use the firmware.bin file in root directory and place on sdcard. Follow article on www.cnx-software.com for complete instructions.
+
+
 BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.
 
 
