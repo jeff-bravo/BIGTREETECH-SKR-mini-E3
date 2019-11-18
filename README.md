@@ -1,6 +1,6 @@
 # BIGTREETECH-SKR-mini-E3
 
-Version for Sovol SV01 use the firmware.bin file in root directory and place on sdcard. Follow article on www.cnx-software.com for complete instructions.
+Version for Sovol SV01 use the firmware.bin file in root directory and place on sdcard. Follow article on https://www.cnx-software.com/2019/11/04/sovol-sv01-upgrade-with-bigtreetech-skr-mini-e3-control-board/ for complete instructions.
 
 11/14 
 
