@@ -2,6 +2,10 @@
 
 Version for Sovol SV01 use the firmware.bin file in root directory and place on sdcard. Follow article on https://www.cnx-software.com/2019/11/04/sovol-sv01-upgrade-with-bigtreetech-skr-mini-e3-control-board/ for complete instructions.
 
+11/18
+
+All the tweaks are turned on now and final testing is done. Final firmware for now. .2 for linear advance works well.
+
 11/14 
 
 You must use PlatformIO Core 4.0.3
